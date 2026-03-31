@@ -1,0 +1,3 @@
+PS C:\Users\olahs>python #終端機裡預設的程式碼，再打上"python"
+>>> #會出現這個，代表進入迴圈了
+>>>exit() #打這個退出迴圈
