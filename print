@@ -1,0 +1,6 @@
+a = "love"
+b = "you"
+print(a, b)
+love = "me"
+you = "too"
+print(love, you)
