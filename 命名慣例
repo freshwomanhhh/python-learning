@@ -1,0 +1,4 @@
+firstName #駝峰式(CamelCase)，前小寫後大寫
+FirstName #駝峰式(CamelCase)，前大寫後大寫，又稱Pascal命名法(Pascal Case)
+first_name #蛇式命名法(snake_case)，用底線分隔
+first-name #烤肉串命名法(kebab_case)，但很多程式語言命名都不支援
