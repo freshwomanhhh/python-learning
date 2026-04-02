@@ -1,0 +1,6 @@
+little = "oh"
+kid = "god"
+frog = little #把little轉移到frog
+little = kid #把kid轉移到little
+kid = frog #把frog轉移到kid
+print("kid =", kid) #執行後會出現"kid = oh"，這樣就對了
