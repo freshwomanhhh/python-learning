@@ -1,0 +1,3 @@
+sister = "妹妹"
+del sister #把sister這個變數跟"妹妹"字串的連結斷開，然後刪掉變數sister
+print(sister) #會出現NameError
